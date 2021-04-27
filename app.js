@@ -1,5 +1,3 @@
-import './styles.css';
-
 const compassDirections = [
   'Please select an option',
   'north_east',
