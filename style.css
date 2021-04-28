@@ -205,8 +205,7 @@ Correct the inability to style clickable types in iOS and Safari.
 */
 
 button,
-[type='button'],
-[type='reset'] {
+[type='button'] {
   -webkit-appearance: button;
 }
 
